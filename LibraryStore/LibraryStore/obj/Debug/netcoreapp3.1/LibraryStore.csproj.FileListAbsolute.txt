@@ -1,0 +1,16 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/bin/Debug/netcoreapp3.1/LibraryStore.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/bin/Debug/netcoreapp3.1/LibraryStore.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/bin/Debug/netcoreapp3.1/LibraryStore.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/bin/Debug/netcoreapp3.1/LibraryStore.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/bin/Debug/netcoreapp3.1/LibraryStore.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/bin/Debug/netcoreapp3.1/Models.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.csproj.CopyComplete
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPPolymorphism/LibraryStore/LibraryStore/obj/Debug/netcoreapp3.1/LibraryStore.genruntimeconfig.cache
